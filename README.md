@@ -2,7 +2,7 @@
 
 #
 # Task1. Login Page
-![](assets/images/loginpage.png)
+![](../../../assets/images/loginpage.png)
 
 #
 # Task2. Signup Page
